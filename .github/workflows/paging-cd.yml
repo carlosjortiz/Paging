@@ -38,7 +38,7 @@ jobs:
         run: dotnet pack ${{ env.PROJECT_NAME }} --no-build -c Release
         working-directory: ${{ env.PATH_PROJECT }}
       - name: Upload Paging artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: paging-lib
           path: .
@@ -49,7 +49,7 @@ jobs:
     needs: build
     steps:
       - name: Download Paging artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: paging-lib
       - name: Test artifact download
