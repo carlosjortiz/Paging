@@ -2,7 +2,7 @@
 
 ![NuGet Version](https://img.shields.io/nuget/v/Qrtix.Paging?logo=nuget)
 ![NuGet Downloads](https://img.shields.io/nuget/dt/Qrtix.Paging?style=flat&logo=nuget)
-![GitHub Repo stars](https://img.shields.io/github/stars/Q-rtix/Paging?style=flat&logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/carlosjortiz/Paging?style=flat&logo=github)
 
 - [Getting Started](#getting-started)
 - [Using PagedList](#using-pagedlist)
@@ -11,7 +11,7 @@
 
 This C# library provides functionality for implementing paged lists.
 
-Consult the online [documentation](https://q-rtix.github.io/Paging/) for more details.
+Consult the online [documentation](https://carlosjortiz.github.io/Paging/) for more details.
 
 ## Getting Started
 
