@@ -2,11 +2,11 @@
 
 ![NuGet Version](https://img.shields.io/nuget/v/Qrtix.Paging?logo=nuget)
 ![NuGet Downloads](https://img.shields.io/nuget/dt/Qrtix.Paging?style=flat&logo=nuget)
-![GitHub Repo stars](https://img.shields.io/github/stars/Q-rtix/Paging?style=flat&logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/carlosjortiz/Paging?style=flat&logo=github)
 
 This C# library provides functionality for implementing paged lists.
 
-Consult the online [documentation](https://q-rtix.github.io/Paging/) for more details.
+Consult the online [documentation](https://carlosjortiz.github.io/Paging/) for more details.
 
 - [Getting Started](#getting-started)
 - [Using PagedList](#using-pagedlist)
@@ -83,9 +83,9 @@ var pageSize = pagedList.PageSize;
 **Did you find a bug?**
 
 - Ensure the bug was not already reported by searching on GitHub
-  under [Issues](https://github.com/Q-rtix/Paging/issues).
+  under [Issues](https://github.com/carlosjortiz/Paging/issues).
 - If you're unable to find an open issue addressing the
-  problem, [open a new one](https://github.com/Q-rtix/Paging/issues/new). Be sure to include a title and clear
+  problem, [open a new one](https://github.com/carlosjortiz/Paging/issues/new). Be sure to include a title and clear
   description, as much relevant information as possible, and a code sample or an executable test case demonstrating the
   expected behavior that is not occurring.
 
@@ -96,7 +96,7 @@ var pageSize = pagedList.PageSize;
 
 **Do you intend to add a new feature or change an existing one?**
 
-- First suggest your change in the [Paging ideas page](https://github.com/Q-rtix/Paging/discussions/categories/ideas)
+- First suggest your change in the [Paging ideas page](https://github.com/carlosjortiz/Paging/discussions/categories/ideas)
   for discussion.
 - There are no fixed rules on what should and shouldn't be in this library, but some features are more valuable than
   others, and some require long-term maintenance that outweighs the value of the feature. So please get sign-off from
@@ -106,4 +106,4 @@ var pageSize = pagedList.PageSize;
 **Do you have questions about the source code?**
 
 - Ask any question about how to use Paging in
-  the [Paging discussion page](https://github.com/Q-rtix/Paging/discussions/new?category=q-a).
+  the [Paging discussion page](https://github.com/carlosjortiz/Paging/discussions/new?category=q-a).
